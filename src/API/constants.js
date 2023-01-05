@@ -1,1 +1,1 @@
-export const baseUrl = "hustlecoding.link";
+export const baseUrl = "http://moon.hustlecoding.link";
